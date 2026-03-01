@@ -1,0 +1,27 @@
+# Large NetCDF data files
+*.nc
+
+# Output images
+*.png
+
+# ETOPO1 binary data files
+ETOPO1/*.tif
+ETOPO1/*.tif.aux.xml
+ETOPO1/*.tif.ovr
+ETOPO1/*.shp
+ETOPO1/*.shx
+ETOPO1/*.dbf
+ETOPO1/*.qix
+
+# Partial downloads
+*.crdownload
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

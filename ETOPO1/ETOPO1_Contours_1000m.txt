@@ -1,0 +1,9 @@
+Downloaded September 2012 from http://www.ngdc.noaa.gov/mgg/global/global.html
+
+http://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/cell_registered/georeferenced_tiff/
+
+Downloaded file: ETOPO1_Ice_c_geotiff.zip
+
+Original image file name: ETOPO1_Ice_c.tif
+
+For information on user restrictions, please visit http://www.ngdc.noaa.gov/ngdcinfo/privacy.html. This page is also available offline in this folder, but note that terms might have changed since data download.

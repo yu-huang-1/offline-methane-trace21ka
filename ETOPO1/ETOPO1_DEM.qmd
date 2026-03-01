@@ -1,0 +1,15 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'><qgis version="3.16.1-Hannover"><language>en</language><type>dataset</type>
+<parentidentifier>ETOPO1</parentidentifier>
+<identifier>../TerrainModels/ETOPO1/ETOPO1_DEM.tif</identifier>
+<title>ETOPO1 Elevation model (2 km)</title>
+<abstract>
+Downloaded September 2012 from http://www.ngdc.noaa.gov/mgg/global/global.html
+
+http://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/cell_registered/georeferenced_tiff/
+
+Downloaded file: ETOPO1_Ice_c_geotiff.zip
+
+Original image file name: ETOPO1_Ice_c.tif
+
+For information on user restrictions, please visit http://www.ngdc.noaa.gov/ngdcinfo/privacy.html. This page is also available offline in this folder, but note that terms might have changed since data download.
+</abstract></qgis>
